@@ -23,3 +23,8 @@ Debes ingresar un número entre 1 y 3, según las opciones que se muestran:
 
  ## 3 Ingresar la cantidad a convertir
  A continuación, el programa solicitará que ingreses la cantidad de dinero que deseas convertir. Introduce el número y el programa realizará la conversión y te mostrará el resultado en la moneda de destino.
+
+ ## Autora: 
+ Luz Belen Cosajay Campos 
+ carnet 25009390
+ correo: luz.cosajay@galileo.edu
